@@ -10,6 +10,7 @@ _misc/
 local/
 log/
 target/
+repocreated.txt
 
 # Excluded Files - Extensions
 *.iml
