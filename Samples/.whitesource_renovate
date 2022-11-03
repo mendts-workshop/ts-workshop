@@ -12,7 +12,7 @@
     "useMendCheckNames": true
   },
   "issueSettings": {
-    "minSeverityLevel": "HIGH,
+    "minSeverityLevel": "HIGH",
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
